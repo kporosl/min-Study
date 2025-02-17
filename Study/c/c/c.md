@@ -1,6 +1,9 @@
 # C 기본
 
 ```
+상수 : 변하지 않는수 const
+변수 : 변하는 수
+
 정수(일반 숫자) : int , long , short , long long
 실수(소숫점) : float , doube , long double  
 문자열 : char = 'a'
