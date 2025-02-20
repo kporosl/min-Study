@@ -26,3 +26,4 @@
       * [정수 , 실수 출력](c/c/c/undefined-3/undefined.md)
     * [상수](c/c/c/undefined-3.md)
     * [scanf 함수의 호출](c/c/c/input.md)
+    * [8진수와 16진수를 이용한 데이터 표현](c/c/c/8-16.md)
