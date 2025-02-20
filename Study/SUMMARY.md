@@ -32,6 +32,8 @@
     * [정수 , 실수,  상수 의 출력](c/c/c/undefined-3/README.md)
       * [정수 , 실수 출력](c/c/c/undefined-3/undefined.md)
       * [상수](c/c/c/undefined-2/undefined-1.md)
+      * [리터럴 상수의 자료형](c/c/c/undefined-2/undefined-2/README.md)
+        * [이름을 지니지 않는 리터럴 상수](c/c/c/undefined-2/undefined-2/undefined.md)
     * [scanf 함수의 호출](c/c/c/input.md)
     * [8진수와 16진수를 이용한 데이터 표현](c/c/c/8-16.md)
     * [연산자 sizeof를 이용한 바이트 크기의 확인](c/c/c/sizeof.md)
