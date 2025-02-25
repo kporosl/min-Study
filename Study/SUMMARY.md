@@ -30,16 +30,14 @@
         * [<< 연산자: 비트의 왼쪽 이동(Shift)](c/c/c/undefined-1/undefined-6/less-than-less-than-shift.md)
         * [>> 연산자: 비트의 오른쪽 이동(Shift)](c/c/c/undefined-1/undefined-6/greater-than-greater-than-shift.md)
     * [정수 , 실수,  상수 의 출력](c/c/c/undefined-3/README.md)
-      * [정수 , 실수 출력](c/c/c/undefined-3/undefined.md)
-      * [상수](c/c/c/undefined-2/undefined-1.md)
-      * [리터럴 상수의 자료형](c/c/c/undefined-2/undefined-2/README.md)
-        * [이름을 지니지 않는 리터럴 상수](c/c/c/undefined-2/undefined-2/undefined.md)
+      * [상수 , 리터럴 상수의 자료형](c/c/c/undefined-2/undefined/README.md)
+        * [이름을 지니지 않는 리터럴 상수](c/c/c/undefined-2/undefined/undefined.md)
+        * [상수](c/c/c/undefined-2/undefined/undefined-1.md)
+      * [정수](c/c/c/undefined-2/undefined-1.md)
+      * [실수](c/c/c/undefined-2/undefined-2.md)
     * [scanf 함수의 호출](c/c/c/input.md)
     * [8진수와 16진수를 이용한 데이터 표현](c/c/c/8-16.md)
     * [연산자 sizeof를 이용한 바이트 크기의 확인](c/c/c/sizeof.md)
-    * [정수, 실수의 표현 및 처리를 위한 일반적 자료형 선택](<c/c/c/undefined-3/README (1).md>)
-      * [정수](<c/c/c/undefined-3/undefined (1).md>)
-      * [실수](c/c/c/undefined-3/undefined-1.md)
 
 ***
 
