@@ -37,12 +37,12 @@
       * [실수](c/c/c/undefined-2/undefined-2.md)
     * [scanf 함수의 호출](c/c/c/input.md)
     * [8진수와 16진수를 이용한 데이터 표현](c/c/c/8-16.md)
-    * [연산자 sizeof를 이용한 바이트 크기의 확인](c/c/c/sizeof/README.md)
-      * [printf 함수와 특수문자](c/c/c/sizeof/printf/README.md)
-        * [printf](c/c/c/sizeof/printf/printf.md)
-        * [특수문자](c/c/c/sizeof/printf/undefined.md)
-        * [서식지정과 서식문자들](c/c/c/sizeof/printf/undefined-1.md)
-        * [필드 폭을 지정](c/c/c/sizeof/printf/undefined-2.md)
+    * [연산자 sizeof를 이용한 바이트 크기의 확인](c/c/c/sizeof.md)
+    * [printf 함수와 특수문자](c/c/c/printf/README.md)
+      * [printf](c/c/c/printf/printf.md)
+      * [특수문자](c/c/c/printf/undefined.md)
+      * [서식지정과 서식문자들](c/c/c/printf/undefined-1.md)
+      * [필드 폭을 지정](c/c/c/printf/undefined-2.md)
 
 ***
 
