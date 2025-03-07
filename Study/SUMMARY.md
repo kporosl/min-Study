@@ -35,14 +35,22 @@
         * [상수](c/c/c/undefined-2/undefined/undefined-1.md)
       * [정수](c/c/c/undefined-2/undefined-1.md)
       * [실수](c/c/c/undefined-2/undefined-2.md)
-    * [scanf 함수의 호출](c/c/c/input.md)
     * [8진수와 16진수를 이용한 데이터 표현](c/c/c/8-16.md)
     * [연산자 sizeof를 이용한 바이트 크기의 확인](c/c/c/sizeof.md)
     * [printf 함수와 특수문자](c/c/c/printf/README.md)
+      * [scanf 함수의 호출](c/c/c/printf/scanf.md)
       * [printf](c/c/c/printf/printf.md)
       * [특수문자](c/c/c/printf/undefined.md)
       * [서식지정과 서식문자들](c/c/c/printf/undefined-1.md)
       * [필드 폭을 지정](c/c/c/printf/undefined-2.md)
+    * [반복문](<c/c/c/undefined-3/README (1).md>)
+      * [반복문의 필수3요소](c/c/c/undefined-3/3.md)
+      * [while문](c/c/c/undefined-3/while/README.md)
+        * [구성과 실행 흐름](c/c/c/undefined-3/while/undefined.md)
+        * [구구단](c/c/c/undefined-3/while/undefined-1.md)
+        * [무한루프](c/c/c/undefined-3/while/undefined-2.md)
+        * [while문의 중첩](c/c/c/undefined-3/while/while.md)
+      * [do\~while문](c/c/c/undefined-3/do-while.md)
 
 ***
 
